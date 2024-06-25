@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&animation=fadeIn&color=D9EFCC&height=300&section=header&text=%20HELLO%20&fontSize=65&fontColor=FFFFFF&fontAlignY=40&desc=y7pWuXAq's%20GitHub%20Profile&descSize=15&descAlign=60&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=Waving&animation=fadeIn&color=D9EFCC&height=270&section=header&text=%20HELLO%20&fontSize=65&fontColor=FFFFFF&fontAlignY=40&desc=y7pWuXAq's%20GitHub%20Profile&descSize=15&descAlign=57&descAlignY=52)
 
 <div align=center>
 <h3>🧸 Hi there 👋</h3>
